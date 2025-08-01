@@ -43,7 +43,7 @@
             "metadata": { "description": "Whether Load Balancers should be Basic or Standard" }
         },
         "vmSize": {
-            "defaultValue": "Standard_B1s",
+            "defaultValue": "Standard_A1_v2",
             "type": "string",
             "metadata": { "description": "Size with which VMs (not the NVAs) will be created. Might be useful to modify if hitting quota limits" }
         },
